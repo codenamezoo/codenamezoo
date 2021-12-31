@@ -2,7 +2,7 @@
 # I am working on...
 - I am a superconducting application engineer, currently focusing on magnet applications. 
 - This is the most recent progress of my work. 
-![25T magnet](/img/25T.jpg)
+![25T magnet](/img/25T.png)
 - Haven't found any publication yet? Please don't worry. I am working on it. 
 # My skills are...
 - Electromagnetic simulations & designs
@@ -19,7 +19,8 @@
 - I like animations, and SF movies and series, Supernatural movies and series. 
 # My Hompage
 - Do you want to know more about me? Please check this.
-    [Wooseung Lee's Hompage](https://wslee.info, "Woooo")]
+
+    [Wooseung Lee's Hompage](https://wslee.info, "Woooo")
 
 
 <!--
